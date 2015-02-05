@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-rugby '2.0.0'
 
 gem 'bootstrap-sass'
 gem 'sass-rails', '~> 5.0'
